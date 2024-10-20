@@ -13,3 +13,5 @@ cd ch1/hello_world
 go build hello_world.go
 ./hello_world
 ```
+
+test
