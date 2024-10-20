@@ -2,8 +2,7 @@ package main
 
 import (
 	"fmt"
-
-	"github.com/james604s/learn-go-programming/src/ch2/w2_1/tempconv"
+	"github/james604s/learn-go-programming/src/ch2/w2_1/tempconv"
 )
 
 // run command:

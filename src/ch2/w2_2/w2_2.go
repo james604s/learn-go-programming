@@ -2,10 +2,9 @@ package main
 
 import (
 	"fmt"
+	"github/james604s/learn-go-programming/src/ch2/w2_2/lenconv"
 	"os"
 	"strconv"
-
-	"github.com/james604s/learn-go-programming/src/ch2/w2_2/lenconv"
 )
 
 // run command:

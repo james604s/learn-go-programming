@@ -14,7 +14,7 @@ go build hello_world.go
 
 ```
 go mod
-go tidy
+go mod tidy
 ```
 
 ## Reference
