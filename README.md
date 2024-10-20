@@ -1,8 +1,6 @@
 # learn-go-programming
 learn-go-programming
 
-https://golang-china.github.io/gopl-zh/index.html
-
 # CLI
 ```
 // 一次性測試
@@ -18,3 +16,8 @@ go build hello_world.go
 go mod
 go tidy
 ```
+
+## Reference
+[golang 中文聖經](https://golang-china.github.io/gopl-zh/index.html)  
+[golang 中文聖經 HW](https://github.com/caistrong/gopl-homework)  
+[golang with point 概念](https://pjchender.dev/golang/pointers/)
