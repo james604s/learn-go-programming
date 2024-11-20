@@ -20,4 +20,5 @@ go mod tidy
 ## Reference
 [golang 中文聖經](https://golang-china.github.io/gopl-zh/index.html)  
 [golang 中文聖經 HW](https://github.com/caistrong/gopl-homework)  
-[golang with point 概念](https://pjchender.dev/golang/pointers/)
+[golang with pointer 概念](https://pjchender.dev/golang/pointers/)
+[go 語言高性能編程](https://geektutu.com/post/hpg-slice.html)
